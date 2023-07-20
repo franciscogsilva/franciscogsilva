@@ -1,4 +1,4 @@
-<h1 align="center">Hello there <img src="resources/images/hi.gif" width="32.5"/>!</h1>
+<h1 align="center">Hello there <img src="resources/images/hi.gif" width="32"/>!</h1>
 <!-- <h1 align="center">Hello there 👋!</h1> -->
 <h3 align="center">🙅🏽‍♂️ I'm Francisco, a Tech lead & Senior Developer with a passion for HARD CODE 🏆 and content creation 🦄.</h3>
 
