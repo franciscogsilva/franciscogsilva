@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋!</h1>
-<h3 align="center">🙅🏽‍♂️ I'm Francisco, a Tech lead & Senior developer with a passion for HARD CODE and content creation.</h3>
+<h3 align="center">🙅🏽‍♂️ I'm Francisco, a Tech lead & Senior developer with a passion for HARD <img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738" width="20"/> CODE and content creation.</h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=franciscogsilva&label=👻%20Profile%20views&color=7a2c74&style=flat" alt="franciscogsilva"/></p>
 
