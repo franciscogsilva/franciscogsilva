@@ -1,0 +1,7 @@
+.palm {
+  animation-name: wave-animation;
+  animation-duration: 2.5s;
+  animation-iteration-count: infinite;
+  transform-origin: 60% 60%;
+  display: inline-block;
+}
