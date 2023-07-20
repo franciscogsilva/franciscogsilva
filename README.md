@@ -1,4 +1,4 @@
-<h1 align="center">Hello there <img src="resources/images/hi.gif" width="35"/>!</h1>
+<h1 align="center">Hello there <img src="resources/images/hi.gif" width="32.5"/>!</h1>
 <!-- <h1 align="center">Hello there 👋!</h1> -->
 <h3 align="center">🙅🏽‍♂️ I'm Francisco, a Tech lead & Senior Developer with a passion for HARD CODE 🏆 and content creation 🦄.</h3>
 
@@ -14,6 +14,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+
 
 <h3 align='center'><i>Stay awesome <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="22"/> !</i></h3>
 
