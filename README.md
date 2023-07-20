@@ -1,7 +1,6 @@
-<link href="resources/css/style.css" rel="stylesheet"></link>
-
-<h1 align="center">Hello there <span class="palm">👋</span>!</h1>
-<h3 align="center">🙅🏽‍♂️ I'm Francisco, a Tech lead & Senior developer with a passion for HARD CODE and content creation.</h3>
+<h1 align="center">Hello there <img src="resources/images/hi.gif" width="40"/>!</h1>
+<!-- <h1 align="center">Hello there 👋!</h1> -->
+<h3 align="center">🙅🏽‍♂️ I'm Francisco, a Tech lead & Senior Developer with a passion for HARD CODE 🏆 and content creation 🦄.</h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=franciscogsilva&label=👻%20Profile%20views&color=7a2c74&style=flat" alt="franciscogsilva"/></p>
 
