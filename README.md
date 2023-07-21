@@ -26,6 +26,7 @@
   <img align="center" src="https://skillicons.dev/icons?i=html,css,sass,js,typescript,react,nextjs,nodejs,express,tailwind,bootstrap,svelte,react,vue,angular,nativescript,dart,flutter,php,laravel,mysql,mongodb,sequelize,git,github,vscode,gcp,firebase,redis,docker,kubernetes,cpp,vim,linux,bash,gitlab,jest,apache,nginx,postman,rabbitmq,wordpress&theme=dark" />
 </p>
 
+<br>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=franciscogsilva&label=👻%20Profile%20views&color=7a2c74&style=flat" alt="franciscogsilva" /></p>
 
 <hr></hr>
