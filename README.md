@@ -3,7 +3,7 @@
 
 <h2 align="center">Some Things About Me 🙈</h2>
 
-- <img src="https://emojis.slackmojis.com/emojis/images/1643514062/184/nyancat_big.gif?1643514062" width="20"/> I make Programming content with [curregoz](https://github.com/curregoz) on <a href="https://www.instagram.com/codecoffeehub/"><img src="https://img.shields.io/badge/-@codecoffeehub-833AB4?style=social&amp;labelColor=833AB4&amp;logo=instagram&amp;logoColor=833AB4&amp;link=https://www.instagram.com/codecoffeehub/" alt="codecoffeehub instagram badge" /></a>
+- <img src="https://emojis.slackmojis.com/emojis/images/1643514062/184/nyancat_big.gif?1643514062" width="20"/> I make Programming content with [curregoz](https://github.com/curregoz) on <a href="https://www.instagram.com/codecoffeehub/"><img src="https://img.shields.io/badge/-3.7k-833AB4?label=@codecoffeehub&amp;style=social&amp;labelColor=833AB4&amp;logo=instagram&amp;logoColor=833AB4&amp;link=https://www.instagram.com/codecoffeehub/" alt="codecoffeehub instagram badge" /></a>
 - <img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738" width="20"/> I'm currently working hard with **Javascript, Nativescript, Typescript, Angular, Flutter, GCP and Kubernets**
 - <img src="https://emojis.slackmojis.com/emojis/images/1643514588/5906/this-is-fine-fire.gif?1643514588" width="20"/> I’m currently learning **Svelte, NextJS, Blockchain**
 - <img src="https://emojis.slackmojis.com/emojis/images/1643514750/7581/elmofire.gif?1643514750" width="20"/> Let's talk about **Javascript**
