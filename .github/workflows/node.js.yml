@@ -21,8 +21,8 @@ jobs:
     - run: npm install
     - run: npm run update-readme
     - run: |
-        git config user.name 'franciscogsilva'
-        git config user.email 'javiergonzalezsilva@gmail.com'
-        git add README.md
-        git commit -m "Update README from Github Actions with latest info"
-        git push origin master
+         git config user.name "franciscogsilva"
+         git config user.email "javiergonzalezsilva@gmail.com"
+         git add README.md
+         git commit -m "Update README from Github Actions with latest info"
+         git push origin master
