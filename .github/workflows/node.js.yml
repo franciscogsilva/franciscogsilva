@@ -25,5 +25,5 @@ jobs:
         git config user.name "franciscogsilva"
         git config user.email "javiergonzalezsilva@gmail.com"
         git add README.md
-        git commit -m "Update README from Github Actions with latest info" || true
-        git push || true
+        git commit -m "Update README from Github Actions with latest info" || echo "Nothing to commit"
+        git push || echo "Nothing to push"
