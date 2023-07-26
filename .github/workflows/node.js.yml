@@ -17,6 +17,8 @@ jobs:
     - uses: actions/setup-node@v3
       with:
         node-version: '18'
+    - run: ls
+    - run: rm README.md
     - run: npm install
     - run: npm run update-readme
     - run: |
