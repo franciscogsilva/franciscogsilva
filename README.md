@@ -1,0 +1,1 @@
+<h1 align="center">Hello there <img src="resources/images/hi.gif" width="33"/>!</h1>
