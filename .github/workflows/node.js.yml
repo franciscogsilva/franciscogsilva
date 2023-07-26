@@ -6,7 +6,7 @@ name: Node.js CI
 on:
   schedule:
 #     - cron: "0 */2 * * *"
-    - cron: "*/1 * * * *"
+    - cron: "* * * * *"
     
 jobs:
   build:
@@ -15,9 +15,9 @@ jobs:
 
     steps:
     - name: Use Node.js 18.x
-      uses: actions/setup-node@v3
+    - uses: actions/setup-node@v3
       with:
-        node-version: 18.x
+        node-version: '18'
         cache: 'npm'
     - run: npm install
     - run: npm run update-readme
