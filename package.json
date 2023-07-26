@@ -1,0 +1,15 @@
+{
+  "name": "franciscogsilva",
+  "version": "1.0.0",
+  "description": "francgs README Github profile",
+  "main": "index.js",
+  "scripts": {
+    "update-readme": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
