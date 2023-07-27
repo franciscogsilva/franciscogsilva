@@ -11,6 +11,3 @@ const LATEST_ARTICLE_PLACEHOLDER = '%{{latest_article}}%'
   const markdown = markdownTemplate.replace(LATEST_ARTICLE_PLACEHOLDER, `[${title}](${link})`)
   await fs.writeFile('./README.md', markdown)
 })()
-
-
-    
