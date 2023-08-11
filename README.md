@@ -28,7 +28,7 @@
 
 <h2 align="center">Latest Articles 👨🏽‍💻</h2>
 
- - [🏡 Tipos de huertos 🍅](https://www.jardinesyhuertos.com/tipos-de-huertos/)
+ - [🍎 EMPIEZA tu HUERTO en CASA❗Consejos y Beneficios 🍅🥕](https://www.jardinesyhuertos.com)
 
 <br>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=franciscogsilva&label=👻%20Profile%20views&color=7a2c74&style=flat" alt="franciscogsilva" /></p>
