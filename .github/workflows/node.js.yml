@@ -6,24 +6,26 @@ name: Node.js CI
 on:
   schedule:
     - cron: "0 */6 * * *"
-    
+  push:
+    branches:
+      - main
+
 jobs:
   build:
-  
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
-    - uses: actions/setup-node@v3
-      with:
-        node-version: '22'
-    - run: ls
-    - run: rm README.md
-    - run: npm install
-    - run: npm run update-readme
-    - run: |
-        git config user.name "franciscogsilva"
-        git config user.email "javiergonzalezsilva@gmail.com"
-        git add README.md
-        git commit -m "Update README from Github Actions with latest info" || echo "Nothing to commit"
-        git push || echo "Nothing to push"
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '22'
+      - run: ls
+      - run: rm README.md
+      - run: npm install
+      - run: npm run update-readme
+      - run: |
+          git config user.name "franciscogsilva"
+          git config user.email "javiergonzalezsilva@gmail.com"
+          git add README.md
+          git commit -m "Update README from Github Actions with latest info" || echo "Nothing to commit"
+          git push || echo "Nothing to push"
