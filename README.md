@@ -28,7 +28,7 @@
 
 <h2 align="center">Latest Articles 👨🏽‍💻</h2>
 
- - - <a href="https://francgs.dev/blog/21-how-to-install-cursor-ai-on-ubuntu-24.04" target="_blank" rel="noopener noreferrer">Complete Guide to Install Cursor AI IDE on Ubuntu 24.04</a>
+  - <a href="https://francgs.dev/blog/21-how-to-install-cursor-ai-on-ubuntu-24.04" target="_blank" rel="noopener noreferrer">Complete Guide to Install Cursor AI IDE on Ubuntu 24.04</a>
 - <a href="https://francgs.dev/blog/20-understanding-story-points-agile-estimation/" target="_blank" rel="noopener noreferrer">Understanding Story Points AGILE Estimation</a>
 - <a href="https://francgs.dev/blog/19-razer-device-configuration-ubuntu-22.04" target="_blank" rel="noopener noreferrer">How to Configure Razer Devices on Ubuntu 22.04</a>
 
