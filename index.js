@@ -10,8 +10,8 @@ const LATEST_ARTICLES_PLACEHOLDER = '%{{latest_articles}}%';
     const { items } = await parser.parseURL('https://francgs.dev/rss.xml');
 
     // Obtener los últimos 3 artículos
-    const latestArticles = items.slice(0, 3)
-      .map(({ title, link }) => `- <a href="${link}" target="_blank" rel="noopener noreferrer">${title}</a>`)
+    const latestArticles = items.slice(0, 5)
+      .map(({ title, link }) => `- [${title}](${link})`)
       .join('\n');
 
     const markdown = markdownTemplate.replace(LATEST_ARTICLES_PLACEHOLDER, latestArticles);
