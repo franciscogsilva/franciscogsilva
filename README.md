@@ -28,9 +28,11 @@
 
 <h2 align="center">Latest Articles 👨🏽‍💻</h2>
 
-  - <a href="https://francgs.dev/blog/21-how-to-install-cursor-ai-on-ubuntu-24.04" target="_blank" rel="noopener noreferrer">Complete Guide to Install Cursor AI IDE on Ubuntu 24.04</a>
-- <a href="https://francgs.dev/blog/20-understanding-story-points-agile-estimation/" target="_blank" rel="noopener noreferrer">Understanding Story Points AGILE Estimation</a>
-- <a href="https://francgs.dev/blog/19-razer-device-configuration-ubuntu-22.04" target="_blank" rel="noopener noreferrer">How to Configure Razer Devices on Ubuntu 22.04</a>
+  - [Complete Guide to Install Cursor AI IDE on Ubuntu 24.04](https://francgs.dev/blog/21-how-to-install-cursor-ai-on-ubuntu-24.04)
+- [Understanding Story Points AGILE Estimation](https://francgs.dev/blog/20-understanding-story-points-agile-estimation/)
+- [How to Configure Razer Devices on Ubuntu 22.04](https://francgs.dev/blog/19-razer-device-configuration-ubuntu-22.04)
+- [Solution to Ethernet Speed Limitation in Ubuntu 22.04](https://francgs.dev/blog/18-solution-ethernet-speed-limitation-on-ubuntu-22.04)
+- [Setting Default Audio Device at Session Start in Ubuntu 22.04](https://francgs.dev/blog/17-setting-default-audio-device-at-session-start-on-ubuntu-22.04)
 
 <br>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=franciscogsilva&label=👻%20Profile%20views&color=7a2c74&style=flat" alt="franciscogsilva" /></p>
