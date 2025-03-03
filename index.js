@@ -1,13 +1,24 @@
-const fs = require('fs').promises
-const Parser = require('rss-parser')
-const parser = new Parser()
+const fs = require('fs').promises;
+const Parser = require('rss-parser');
+const parser = new Parser();
 
-const LATEST_ARTICLE_PLACEHOLDER = '%{{latest_article}}%'
+const LATEST_ARTICLES_PLACEHOLDER = '%{{latest_articles}}%';
 
-;(async () => {
-  const markdownTemplate = await fs.readFile('./README.md.template', { encoding: 'utf-8' })
-  const {items} = await parser.parseURL('https://francgs.dev/rss.xml')
-  const [{title, link}] = items //Obtener el elemento 0 del array y desestructuramos title y link
-  const markdown = markdownTemplate.replace(LATEST_ARTICLE_PLACEHOLDER, `[${title}](${link})`)
-  await fs.writeFile('./README.md', markdown)
-})()
+(async () => {
+  try {
+    const markdownTemplate = await fs.readFile('./README.md.template', { encoding: 'utf-8' });
+    const { items } = await parser.parseURL('https://francgs.dev/rss.xml');
+
+    // Obtener los últimos 5 artículos
+    const latestArticles = items.slice(0, 5)
+      .map(({ title, link }) => `- [${title}](${link})`)
+      .join('\n');
+
+    const markdown = markdownTemplate.replace(LATEST_ARTICLES_PLACEHOLDER, latestArticles);
+    await fs.writeFile('./README.md', markdown);
+    
+    console.log('README.md actualizado con los últimos 3 artículos.');
+  } catch (error) {
+    console.error('Error actualizando README.md:', error);
+  }
+})();
