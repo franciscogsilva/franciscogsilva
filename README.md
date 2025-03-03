@@ -28,7 +28,7 @@
 
 <h2 align="center">Latest Articles 👨🏽‍💻</h2>
 
- - [My First Blog Post](https://francgs.dev/blog/01-test/)
+ - [Complete Guide to Install Cursor AI IDE on Ubuntu 24.04](https://francgs.dev/blog/21-how-to-install-cursor-ai-on-ubuntu-24.04)
 
 <br>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=franciscogsilva&label=👻%20Profile%20views&color=7a2c74&style=flat" alt="franciscogsilva" /></p>
