@@ -28,11 +28,11 @@
 
 <h2 align="center">Latest Articles 👨🏽‍💻</h2>
 
+- [Custom Terminal Setup - Kitty + Ranger on Ubuntu 24.04](https://francgs.dev/blog/23-custom-terminal-setup-kitty-ranger-on-ubuntu-24.04)
 - [How to Create Command Aliases in Linux and macOS](https://francgs.dev/blog/22-how-to-create-command-aliases-in-linux-and-macos/)
 - [Complete Guide to Install Cursor AI IDE on Ubuntu 24.04](https://francgs.dev/blog/21-how-to-install-cursor-ai-on-ubuntu-24.04)
 - [Understanding Story Points AGILE Estimation](https://francgs.dev/blog/20-understanding-story-points-agile-estimation/)
 - [How to Configure Razer Devices on Ubuntu 22.04](https://francgs.dev/blog/19-razer-device-configuration-ubuntu-22.04)
-- [Solution to Ethernet Speed Limitation in Ubuntu 22.04](https://francgs.dev/blog/18-solution-ethernet-speed-limitation-on-ubuntu-22.04)
 
 <br>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=franciscogsilva&label=👻%20Profile%20views&color=7a2c74&style=flat" alt="franciscogsilva" /></p>
